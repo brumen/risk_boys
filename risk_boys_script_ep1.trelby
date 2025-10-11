@@ -1,0 +1,991 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:13
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:FLASHBACK TO:
+AutoCompletion/Transition/Items/9:JUMP CUT TO:
+AutoCompletion/Transition/Items/10:MATCH CUT TO:
+AutoCompletion/Transition/Items/11:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/12:SMASH CUT TO:
+AutoCompletion/Transition/Items/13:TIME CUT:
+AutoCompletion/Shot/Enabled:True
+AutoCompletion/Shot/Items:0
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:19
+Cursor/Column:14
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:2
+Words/1:brett's
+Words/2:munis
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,RISK BOYS
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nGorazd Brumen
+#Title-String 15.000000,248.460000,12,,Courier,,646 944 5781\ngorazd.brumen@gmail.com
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.\
+.\Sonny's Desk
+>.At Sonny's desk. There are Bloomberg screens in front of
+>.him, a typical trading floor setup. There are other traders
+..around him talking into the phone. 
+>.Sonny is a good looking, well kept guy, who is using
+>.profanity liberally. He works for SM (Shapley Morton), a
+..large Wall Street brokerage firm. 
+>.His associates Amisha and Joshua are sitting at their
+>.respective desks. Joshua is trying to work on some
+>.spreadsheets, but Amisha is just browsing her cell phone
+>.with only the Outlook, the mail agent open on her two
+..screens. 
+>.Roger is from Hemispheric Energy, a gas and oil exploration
+>.company. He is a typical non- Wall Street manager, overly
+>.positive and exaggerating on everything he describes. Very
+..shallow and vain. 
+._Roger
+>:So this is the business we came up
+>:with - we have this really valuable
+>:land, with lots of oil underneath.
+>:Telling you man, they drilled there
+>:already and, apart from some minor
+>:hiccups, this thing looks
+.:promising. 
+._SONNY
+>:OK, so how much are we talking
+.:about.
+._ROGER
+>:Like, easily several millions
+>:MMBtus, plus lots of oil, some can
+.:be converted to jet fuel. 
+>.Roger continues talking on the phone while Amisha comes
+>.along and brings Sonny coffee. She is obviously flirty.
+>.Sonny pushes her aside while holding the phone covered so
+..that Roger can't hear them. 
+._SONNY
+.((to AMISHA)
+>:Not now, Amisha. Leave it here
+.:god-damit.
+._ROGER
+>((continues from where he
+.(left over)
+>:.... So all in total, this deal is
+.:looking fucking sweet man.
+._SONNY
+>((kind of bluffing in
+>(order to portray himself
+>(busier than he really
+.(is)
+>:Wait, couldn't get you there, tons
+>:of stuff happening here. How
+>:profitable did you say this deal
+.:is?
+._ROGER
+>:Like, really profitable. If profit
+.:was honey, we are bees, man. 
+._SONNY
+>((obviously doesn't have a
+>(clue, but continues
+.(anyways)
+>:This is looking good, man. Where
+>:did you say this is? West
+>:Appalachian shale? Man - I was
+>:there once - fucking shit hole man.
+>:Polluted as hell - couldn't even
+>:breathe half the time. All these
+.:wetbacks...
+.((is interrupted by Roger)
+.:
+._ROGER
+>:I know, who cares about those
+>:fuckers living there. They can all
+>:live in their hillbilly trailers
+>:and drive poor ass trucks and get
+.:cancer for all I ...
+.((is interrupted by Sonny)
+.:
+._SONNY
+.:Right - poor fucks....
+._ROGER
+.((continues)
+>:... Care, as long as they keep
+.:pumping us that gas.
+._SONNY
+.:I read you, man.
+._
+>.Amisha comes around again with some papers, waiting for
+..Sonny's signature.
+._SONNY
+>((to Amisha, while holding
+>(the phone covered again,
+>(talking flirty with
+.(Amisha)
+>:Not now, Amisha. Let's get that
+.:done after work, all right.
+.((to Roger)
+>:OK, I understand the deal. What do
+.:you need, Rog?
+._ROGER
+>:What do you mean I need? Did I call
+>:the suicide prevention hotline? You
+.:know what I need.
+._SONNY
+>:Don't go all pissy on me first
+>:thing in the morning. Tough party
+>:yesterday night at the Standard.
+>:There were some hot asses there,
+.:telling you. There was one...
+._ROGER
+>((pretends he is not
+>(interested, but actually
+>(he eagerly wants to hear
+.(Sonny's exploits)
+>:Not interested in your exploits.
+>:Bitches come, bitches go. Fuck
+.:them, done that.
+._SONNY
+>((still talking about that
+>(woman he wanted last
+.(night)
+>:... She had the sweetest ass. I
+>:swear to you man, could fuck her
+>:right there, right then. Couldn't
+.:do it.
+._ROGER
+>((gets interested, whereas
+>(before faked a
+.(non-interest)
+.:Why not? Where was that?
+._SONNY
+.:The fucking boom boom room.
+._ROGER
+>((irritated he wasn't part
+.(of the exploits)
+>:The boom boom room? Been in NY so
+>:many fucking times, met you
+>:countless, and you never fucking
+>:bring me there? Snorted all sorts
+>:of shit, don't even know what it
+>:was half the time, drank fucking so
+>:much I couldn't remember my name -
+.:and you never bring me there.
+._SONNY
+.:Calm down, Rog. 
+.((continues the story)
+.:So this girl.
+>((Joshua comes by, Sonny
+.(becomes agitated)
+>:I told you I don't have the time
+.:first thing in the morning.
+._
+>.Joshua tries to leave really fast, but bumps into furniture
+..and spills a drink on himself.
+.:
+._SONNY
+>((to Roger, is making fun
+.(of the intern Joshua)
+>:Fucking interns man. We got them,
+>:they are like 10c a dozen, don't do
+>:anything, little fucks. Still need
+>:to have them, because the
+>:management fucking says we need
+.:them. For PR reason or whatever.
+._ROGER
+>((obviously not interested
+>(in the interns, more
+>(interested in the
+.(exploits)
+.:Come on man, the girl.
+._SONNY
+>:Yeah, so there was this girl, and
+>:she has the sweetest ass I have
+>:seen. Like, she must have been
+.:working out, like tons.
+._ROGER
+>((fantasizing about the
+.(girl)
+.:Wow...
+._SONNY
+.:So where were we about that deal?
+._ROGER
+.((confused)
+>:Oh the deal - yeah, so this deal is
+.:sweet man, but we need money.
+._SONNY
+>:How much, cause you know what
+>:happened last time we did business
+.:with you?
+._ROGER
+>:Why do you always have to mention
+.:that? It happened like one time
+._SONNY
+>:Yeah, one time (whispering), lost
+>:nearly 400 million. Thank god SM
+>:management is so fucking
+>:incompetent they barely noticed. If
+>:it wasn't for all the other fucking
+>:deals that went sour that quarter,
+>:my ass would be selling lemons of
+>:the BQE (Brooklyn Queens
+>:Expressway). Can't even believe my
+.:luck.
+._ROGER
+>:Man, this is nothing like last
+.:time.
+._SONNY
+>:Better be, cause if Brett remembers
+.:that last deal... I am out. 
+._
+>:Anyways, as I was saying - this
+>:girl was hot as hell, great ass,
+>:really man, I swear, I could hit
+>:that right there. Couldn't do it -
+>:she had a boyfriend or something,
+>:can't remember now, anyways, this
+>:weasel kept popping around every so
+.:often - couldn't hit it there. 
+._ROGER
+.:Why not?
+._SONNY
+>:Cause I already have a strike in
+>:the Boom boom room. Half a year ago
+.:or so.
+._ROGER
+.:You animal.
+._SONNY
+>:So - about this new deal - how much
+.:you say you need?
+._ROGER
+.:Around 150 million. 
+._SONNY
+.((somewhat sceptical)
+>:Hmmm.... Let me run that through.
+>:In the meantime, the strike that I
+>:have at the Boom-boom room....
+.:(Scene slowly cuts off.) 
+.\BRETT's office
+>.Brett is Sonny's boss. He is a classical WASP-y guy with a
+>.nice haircut, white shirt and a tie. Brett's office is one
+>.of those somewhat lavish corner offices on one of the higher
+..up floors (30). He has a desk with a schooner on it. 
+._SONNY
+>:Hey Brett, my man, how's a going?
+.:How is "The Miraculous" doing?
+._BRETT
+>:Don't even ask me, nothing but
+>:pain. I mean, it's expensive to be
+>:rich. You know when they say - the
+>:best day in the boat-owner's life
+>:is the day it's bought and sold.
+>:Holds so true. Anyways, really
+.:busy, what do you want? 
+._SONNY
+>:You know Hemisphere Energy. They
+>:called. They have this great deal
+>:that they are looking investors
+.:for. I spoke to...
+.((interrupted by Brett)
+.:
+._BRETT
+>:Hemisphere. That kind of rings a
+.:bell.
+._SONNY
+>:Yeah, they are huge. Shale gas
+>:drilling, off-shore exploration.
+>:Really great company. Highly
+.:skilled workforce...
+._BRETT
+.:... OK.
+._SONNY
+>:Well, they are looking for
+>:potential investors in the new
+>:shale field that they are
+.:developing. 
+._BRETT
+>:OK, you can tell me more about it
+>:later. Run it through the strats
+>:first. I want to see if you missed
+.:anything. 
+.\DR. TANG'S AREA ON THE TRADING FLOOR
+>.Dr. Tang is a strat in the organization. He is always
+>.referred as Dr. Tang, as if he doesn't have the first name.
+>.All his assistants are also Chinese. He has a mild Chinese
+>.accent. He has at least four really large screens, running
+>.all sorts of analysis, coding. He is really into his work
+..and he is not easily distracted. 
+._SONNY
+>:Dr. Tang, how is my favorite
+.:Chinese doing today? Busy?
+._DR. TANG
+>:Yes, I have to finish the risk
+>:reports for Carter Potential (a
+>:company name), then CVA
+>:calculations on the CDSs. What
+.:bring you here? 
+>((Dr. Tang doesn't speak
+>(perfect English, so
+>(minor mistakes in his
+>(dialogue - and this
+.(script I might add...)
+.:
+._SONNY
+.:I have this new deal coming....
+._DR. TANG
+>:Let me stop you right there. I have
+>:a ton of work here, so your
+>:analysis will have to come after.
+>:Except of course, if I get another
+>:person. That would help. I have
+>:this really smart guy, got a gold
+.:medal at the math olympiad....
+._SONNY
+>:You know how things are lately.
+>:Can't afford it right now. It's not
+.:a growing industry you know. 
+._DR. TANG
+>:One of my interns costs less a year
+.:than your salary for 2 weeks.
+._SONNY
+>:I know, and it pains me, but I
+>:really need that money. Golf
+.:membership is not free.
+._DR. TANG
+>:Or you can hire one of the Budapest
+.:guys...
+._SONNY
+>:I can't do it. All the overhead
+.:costs.
+._DR. TANG
+>:Overhead - you invited the business
+>:associates to Le Bernardin just
+>:last week. For full dinner. Me and
+>:my wife don't even go there for our
+>:anniversary. And you invited 8
+.:people.
+._SONNY
+>:Dr. Tang, I don't have time to
+>:discuss business decisions with
+.:you. 
+._DR. TANG
+>:Business decisions - it was end of
+>:the quarter party. Anyways - I will
+>:do it later. You also better run
+.:the deal through Igor in risk.
+._SONNY
+>((somewhat dismissive
+.(towards Dr. Tang)
+>:Sure thing - just don't take too
+.:long - don't forget who pays you..
+>.Sonny leaves, Dr. Tang hisses behind him as if he wants to
+..stab him, but can't show that to him directly. 
+.\SUNNY AT HIS DESK
+>.Igor is a russian guy from the risk department. He wears
+>.somewhat large clumsy glasses. He speaks in a quite deep
+>.russian accent. He has a bad haircut (I know this is
+>.cliché.) He tries to take care of his appearance, but can't
+>.quite pull it together - a large stain on his shirt or
+..something gives it away.
+._SONNY
+.((calling IGOR)
+.:Hi Igor.
+._IGOR
+.((in mild russian accent)
+.:Hi, how are you zooing?
+._SONNY
+.:So Igor, I have this deal...
+._IGOR
+>:Wait right there, I have another
+>:call from the fixed income
+.:department. 
+>.Sonny is put on hold for about 15 secs, in the meantime the
+>.Russian national anthem is playing, interrupted occasionally
+..by short speeches from Vladimir Putin. 
+._IGOR
+>:Sorry for that, that was the head
+>:of risk, he wants to do this field
+>:day for us to get to know each
+>:other better. But I told him I
+>:don't need this - I already know
+>:everybody here. Back in Leningrad's
+>:Lomonosov Institute we had only one
+>:field day every 4 years. That was
+>:enough. We went, grilled some
+>:sashlik and drank. Sometimes we
+>:shot guns at Reagan, sometimes at
+.:Eisenhover, you know...
+._SONNY
+.:Yes Igor, I know.
+._IGOR
+>((tries to continue with
+.(his rant)
+>:And nowadays, what remains of the
+.:Soviet Union. Nothing...
+._SONNY
+>:Yes, Igor, I know it's tragic, but
+.:I can't help if we beat you...
+._IGOR
+>:You did not beat us. We beat
+.:ourselves...
+._SONNY
+.:Yeah, keep telling yourself that.
+._IGOR
+>:We beat ourselves, If it wasn't for
+>:all the dachas that we had to
+.:build, or...
+._SONNY
+>:Igor, we can go on with this or you
+.:can help me for what you get paid. 
+.((awkward silence)
+>:So I wanted to contact you about
+.:this deal that is brewing...
+._IGOR
+.:What deal?
+._SONNY
+.:It's a shale gas exploration....
+._IGOR
+.((interrupts Sonny)
+>:Is it with Hempisheric Energy
+.:again?
+._SONNY
+.(Yesssssssss...........
+.:
+._IGOR
+>:Have they not cheated you enough
+.:already? How long...
+._SONNY
+>:Look, this deal is nothing like the
+.:previous one...
+._IGOR
+.:Hmmm -hmmmm
+._SONNY
+>:... And it is potentially super
+.:lucrative.
+._IGOR
+.:Ah-ha.
+._SONNY
+>:So I would like you to take a look
+.:at it and approve the risk profile.
+._IGOR
+.((mockingly)
+.:How is this "new" deal structured?
+._SONNY
+>((who obviously has no
+>(clue about it, because
+>(Roger didn't explain it
+.(to him)
+>:Well, Hemispheric gives us rights
+>:to extract oil, and we give them
+.:a....
+._IGOR
+.:.... Yes....
+._SONNY
+>:... We give them ... A loan to
+.:extract it.
+._IGOR
+>:OK, send the deal specifications
+>:over here and I will evaluate the
+.:risk profile.
+._SONNY
+.:Will do as soon as I get them.
+._IGOR
+>:Wait, what? You mean you don't have
+>:them already? How is this a
+>:"brewing" deal? Or is it only
+.:brewing inside you (mockingly)?
+._SONNY
+>:Look, Igor - I will have the
+>:specifications over at your desk as
+>:soon as I get them, and you will
+>:see this is a great deal, and there
+.:is nothing to worry about...
+._IGOR
+>:You mean the way there was nothing
+>:to worry about last time you dealt
+.:with Hemispheric?
+._SONNY
+.:Look, I know the guy...
+._IGOR
+.:Roger?
+._SONNY
+.:Yes, but...
+._IGOR
+.:... But....
+._SONNY
+>:... But this is a completely new
+>:deal in a different location and
+.:...
+._IGOR
+>:Is it in the west Appalachian
+.:shale?
+._SONNY
+.:Right...
+._IGOR
+>:Bozhe moy. (My god - talks to
+>:himself in Russian and the
+>:subtitles would come below to
+>:translate - Like commrade
+>:Stavchenko, when we told  him
+>:million times there is a problem
+>:with the cooling of that power
+.:plant; referring to Chernobyl).
+._SONNY
+>:... But this one has a huge upside
+.:potential with ....
+._IGOR
+>:... Let me guess - very limited
+.:downside risk....
+._SONNY
+.:... Rrrriiiigggghhhtttt...
+._IGOR
+>:This sounds like the deal we had
+>:last time, when Hemispheric stiffed
+>:the subcontractors, pulled
+>:political leverage on the
+>:competition - kind of what the
+.:current president is doing.
+._SONNY
+>:... I am getting really impatient
+.:here...
+._IGOR
+.((really angry)
+>:You can be as impatient as you
+>:want, I am telling you this deal,
+>:if it is anything like last time
+>:will get a huge credit penalty. You
+.:can take that to the bank 
+>((laughs at himself, like
+.(and old man)
+.:
+._SONNY
+>:I am getting nowhere here with you.
+>:You better speak with my head strat
+>:Dr. Tang. He will give you all the
+>:details. I will also speak to my
+>:manager - and you better get ready
+>:to argument this - (very
+>:sarcastically) if you don't want to
+>:be sent back to that gulag of
+.:Leningrad.
+._IGOR
+>:It's Saint Petersburg now. And
+>:Leningrad was never a gulag - you
+>:Americans don't even know where the
+>:gulags were. .... But fine, I will
+.:give Dr. Tang a call.
+._SONNY
+>((irritated and
+.(dismissive)
+.:Fine. (hangs up)
+._IGOR
+.((irritated as well)
+.:Fine. (hangs up)
+.\IGOR IS CALLING Dr. TANG ON THE PHONE.
+._IGOR
+>:Hi Dr. Tang, this is Igor. I was
+>:wondering if you can send me over
+>:the specs for the new "lucrative"
+>:deal that Sonny was telling me
+.:about.
+._DR. TANG
+>:Oh, I don't know anything about it
+>:- Sonny was supposed to give me the
+.:specs later today.
+._IGOR
+>:He told me you can explain the deal
+.:to me.
+._DR. TANG
+>:But I don't have the specs. How can
+>:I know the deal if he hasn't told
+.:or sent me anything?
+._IGOR
+>:Salepeople. I will conference Sonny
+.:in. 
+>((conferences Sonny in,
+.(but Amisha answers)
+.:
+._AMISHA
+>((somewhat clueless why
+.(Igor is calling her)
+>:You have reached SM, this is Sonny
+.:Lambert's desk. How may I help you?
+._IGOR
+>:Hi Amisha, this is Igor from risk
+>:management - I thought you
+.:recognized the number....
+._AMISHA
+>((kind of bitchy, feeling
+.(dumbed down)
+>:Of course I recognized you - I was
+.:just playing a joke on you silly...
+._IGOR
+.((seriously)
+>:OK, can I speak to someone who
+.:knows the Hemispheric deal?
+._AMISHA
+>:Well, Sonny isn't here, but I will
+>:let him know as soon as he is in
+.:that you called.
+._IGOR
+>:Thanks. Please don't forget. It's
+.:urgent.
+.\Sonny is CALLING ROGER
+>.Sonny is somewhat upset that Roger didn't give him details,
+>.and somewhat annoyed with himself, that he didn't ask for
+..more details. 
+._SONNY
+>:Hi Rog, this is Sonny, calling you
+.:about that shale oil deal...
+._ROGER
+>:Oh, hey man, no problem, but before
+>:that something more important -
+>:what was the name of that hot bitch
+>:you wanted to hit yesterday at the
+.:boom boom room?
+._SONNY
+.:Jess, but that is not impo...
+.((is interrupted by Roger)
+.:
+._ROGER
+>:... That is not important.
+>:(sarcastically) How is that not
+.:important? (smiles)
+._SONNY
+>:Cause there are people that want to
+.:know more about the deal. 
+._ROGER
+.:What deal? 
+._SONNY
+>:The west appalachian shale
+>:extraction you were telling me
+.:earlier today. 
+._ROGER
+>((surprised that Sonny is
+>(actually inquiring about
+.(it)
+.:Oh yeah, that one.. 
+._SONNY
+>:Yeah, can you mail me the specs, so
+>:that my guys here can take a look
+.:at it...
+._ROGER
+>:Specs, sureeee. (very unsure, clear
+>:that he himself didn't prepare this
+>:deal well) Will take a while to get
+.:all of it together. 
+._SONNY
+>:What do you mean - it will take a
+.:while? 
+._ROGER
+>:I mean it will take a while - we
+>:need to hire the extraction
+>:specialist to appraise it, auditors
+.:to evaluate....
+._SONNY
+>:What da fuck man? I thought you
+>:have all of that ready to go,
+.:and...
+._ROGER
+.:Yeah, about that...
+._SONNY
+>((really agitated, almost
+>(screaming, and nearly
+>(slamming the phone, the
+>(tone of the conversation
+>(gets really really
+.(elevated)
+>:What da flying fuck man - now I am
+>:starting to understand why the
+.:previous deal went sour so fast.
+._ROGER
+>:Hey hey, I wont take that kind of
+.:language.
+._SONNY
+>((imitates Roger at the
+.(beginning)
+>:Hey hey - I won't underwrite any
+.:such deal.
+._ROGER
+>:Sonny, calm down, look we have here
+.:a really lucrative deal...
+._SONNY
+>:Roger, for fuck sake, stop with the
+>:management talk already. I am
+>:serious now. I need specs of the
+>:deal, or it doesn't go through,
+.:capiche?
+._ROGER
+>:OK, but it will take me a week or
+.:so to do it.
+._SONNY
+.:Then call me in a week.
+._ROGER
+>:Look, there are 100s of other
+>:advisors that are just waiting for
+.:this deal to come ...
+._SONNY
+.((super upset)
+>:Then call them for fucks sake and
+>:don't deal with me (hangs up,
+.:exhales)
+>.Trying to relax on the chair, but can't quite do it. He is
+>.visibly upset that Roger would want to dupe him in such a
+>.fashion and contemplating how he is going to work with Roger
+>.again in the future. At this time Amisha comes over and
+..tries to sit on his lap partially. 
+._AMISHA
+.((obviously flirty)
+>:How's my favorite managing director
+.:doing?
+._SONNY
+|:Not now, Amisha 
+.:(pushes her away). Not now.
+._AMISHA
+.:What's wrong, honey?
+._SONNY
+.:Can't really explain....
+>.Scene fades to black as Sonny tries to calm down and think
+..about the situation.
+.\Sonny and Brett in Brett's office
+._SONNY
+>((coming into Brett's
+.(office)
+.:You wanted to see me Brett.
+._BRETT
+>:Yeah, sit down. I heard you are
+>:having one of those deals w/
+>:Hemispheric in the pipeline. I
+>:checked with Josh - now explain to
+>:me why are we dealing with them
+>:again, after we've been stiffed
+.:like pigs the previous time.
+._SONNY
+>:It's nothing like the last time.
+.:This time it's ....
+._BRETT
+>((raises his voice
+>(considerably, getting
+>(angry that Sonny doesn't
+.(come clean)
+>:Explain to me how it's nothing like
+>:last time, where you couldn't even
+>:explain to Dr. Tang what the deal
+.:is?
+._SONNY
+>:I didn't give Dr. Tang the details
+.:and...
+._BRETT
+>:Or Igor - he didn't know anything
+.:either...
+._SONNY
+>:... Igor doesn't care about
+.:anything but risk...
+._BRETT
+>:Of course he cares about risk, it's
+>:his job for fucking crying out loud
+>:- I feel like I am talking to a 5
+>:year old child, not a person who
+>:worked on oil deals his entire
+.:adult life.
+._SONNY
+>:Well, nothing is signed Brett, calm
+.:down.
+._BRETT
+>((extremely angry,
+.(screaming)
+>:Don't you fucking tell me to calm
+>:down. Your ass is on the line, and
+>:so is mine for that matter, so
+>:never ever tell me to fucking calm
+.:the fuck down.
+._SONNY
+.((humble)
+>:All I am saying is that nothing is
+.:finalized... 
+>((mumbles, but can't
+>(really compose himself
+.(well)
+.:
+._BRETT
+>((tries to calm down as
+>(well, takes a few sips
+>(of water, and continues,
+>(with slight interruption
+>(at first, but composes
+>(himself better towards
+.(the end of the line)
+>:Look Sonny, I like you - we
+>:accomplished a lot at this company.
+>:Like those deals in the Southeast
+>:with the munis. They were good. But
+>:we can't have any more failures
+>:like the previous one with
+>:Hemispheric. Just can't have them.
+>:There was no recourse last time. I
+>:can't believe those guys have the
+>:balls to call us again and ask us
+>:for another revolver. And where was
+>:your head? Did you never stop to
+>:think about what could happen? Look
+>:Sonny - this was your second
+>:screw-up - there won't be the
+.:third. 
+>.Sonny bites his lip, and slowly leaves the office, and goes
+>.to the restrooms, where he slams the door and the wall with
+..his fist. 
+._SONNY
+>:Fucking shit, holly fucking shit.
+.:Fucking Hemispheric. 
+.\
