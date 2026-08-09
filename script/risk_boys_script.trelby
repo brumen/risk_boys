@@ -42,8 +42,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:289
-Cursor/Column:32
+Cursor/Line:57
+Cursor/Column:0
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -179,7 +179,8 @@ Words/2:munis
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
-.\SYNOPSIS
+.\--SYNOPSIS
+..SYNOPSIS
 ..Recurring characters:
 >.Shapley Morton (SM): is a large Wall Street brokerage
 >.company. It has a standard pyramid shape management
@@ -232,6 +233,7 @@ Words/2:munis
 >.humble and submissive, and not arrogant, contrary to his
 >.boss Sonny. Secretly wants to be in a more creative
 ..endeavours. 
+..--PRELUDE
 .\Sonny's Desk
 >.A typical trading floor desk. Several screens with Bloomberg
 >.terminals in front of him. A dispatcher phone console. Other
@@ -240,64 +242,59 @@ Words/2:munis
 >.Amisha and Joshua are sitting at their respective desks.
 >.Joshua is trying to work on some spreadsheets, but Amisha is
 >.just browsing her cell phone with only e-mail open on her
-..two screens. 
-._Sonny's Trading Asst.
->((talking on the phone,
-.(turning towards Roger)
-.:...Rog, you have a call on line 1.
+>.two screens. The camera switches between Roger, who is in an
+>.office at Hemispheric, and Sonny, who is at his trading
+>.desk. Sometimes the camera stays on Roger or Sonny, and the
+..other's voice is heard in the background.
+..--DIALOGUE
 ._SONNY
->((talking to someone on
->(the phone, but has to
->(interrupt, and switch
->(the dial on his phone
-.(dispatch console)
+>((talking to a girl on the
+>(phone, switches the on
+.(the phone console)
 >:... Babe, I have to hang up.
 .:Love... 
 >((presses the dial on the
 .(phone console)
->:This is Roger at SM. Who do I have
+>:This is Sonny at SM. Who do I have
 .:the pleasure of talking to? 
 ._ROGER
->:Hi Sonny, this is Roger from
-.:Hemispheric. 
+.:Hey, It's Roger from Hemispheric.
 ._SONNY
 >:Hey Rog, old buddy. What's
 >:happening on this fine automn
 .:morning down in WV?
+._
+.:--DIALOGUE
 ._ROGER
->:Well, I have a business proposition
-.:for you. Interested?
+.:You seem not to lose time... 
 ._SONNY
-.:Always...
+.:... Never... 
 ._ROGER
->:Good. You might not know, but we
->:acquired some real estate down in
->:WV, and as it looks, we really hit
-.:gold this time. 
+>:... All is going fine here. Look,
+>:we acquired a patch here and we're
+>:interested in hedging the profits.
+.:We naturally thought of you.
 ._SONNY
-.:OK...
+>:How sweet (sarcastic). What are we
+.:looking at?
 ._ROGER
->:Apparently the engineering report
->:came through, and it seem there we
->:got potentially lots of oil
->:underneath. Telling you man, they
->:drilled there already and, apart
->:from some minor hiccups, this thing
-.:looks promising.
-._SONNY
-.:OK, so what are we talking about?
-._ROGER
->:Like, easily several millions
->:MMBtus nat gas, plus lots of oil.
-.:Some convertable to jet fuel.
+>:The engineering report came
+>:through, and what we would like to 
+>:do is lock in a few million MMBtus
+>:of oil and natgas. Some are
+.:convertable to jet fuel.
+._
+.:--PRELUDE
 >.Roger continues talking on the phone while Amisha comes
->.along and brings Sonny coffee. She is obviously flirty.
->.Sonny pushes her aside while holding the phone covered so
-..that Roger can't hear them. 
+>.along and flirtously puts Sonny's coffee in front of him.
+>.brings Sonny coffee. Sonny gently pushes her aside while
+>.holding the phone covered so that Roger can't hear them.
+..Amisha goes to her desk.
+..--DIALOGUE
 ._SONNY
 .((to AMISHA)
 >:Not now, Amisha. Leave (the coffee)
-.:it here god-damit.
+.:it here god-damit. 
 ._ROGER
 >((continues from where he
 .(left over)
@@ -309,33 +306,33 @@ Words/2:munis
 >(busier than he really
 .(is)
 >:Wait, couldn't get you there, tons
->:of stuff happening here. How
->:profitable did you say this deal
-.:is?
+>:of stuff happening here. What did
+.:you say the parameters are?
 ._ROGER
->:Like, really profitable. If profit
-.:was honey, we are bees, man. 
+>:Like, it's really profitable. We
+.:just stumbled into a gold mine.
 ._SONNY
->((obviously doesn't have a
->(clue, but continues
+>((obviously doesn't quite
+>(grasp it, but continues
 .(anyways)
 >:Sounds good. Where did you say this
->:is? West Appalachian shale? Man - I
->:was there once - fucking shit hole
->:man. Polluted as hell - couldn't
->:breathe half the time. All these
-.:wetbacks...
-.((is interrupted by Roger)
-.:
+.:is? West Appalachian shale? 
 ._ROGER
->:I know, who cares about those
->:fuckers living there with their
+.:Yeah, SE corner.
+._SONNY
+>:Oh man - I was there once - fucking
+>:shit hole man. Polluted as hell -
+>:couldn't breathe half the time. All
+.:these wetbacks...
+.((is interrupted by Roger)
+._ROGER
+>:...I know, who cares about those
+>:fuckers living there in their
 >:hillbilly trailers. They can all
 .:get cancer for all I ...
 .((is interrupted by Sonny)
 .:
 ._SONNY
-.((sarcastically)
 .:Right - poor fucks....
 ._ROGER
 .((continues)
@@ -344,13 +341,12 @@ Words/2:munis
 ._SONNY
 .:I read you, man.
 ._
->.Amisha comes around again with some papers, waiting for
-..Sonny's signature.
+>.Amisha again comes around with some papers for Sonny to
+..sign.
 ._SONNY
 >((to Amisha, while holding
->(the phone covered again,
->(talking flirty with
-.(Amisha)
+>(the phone covered,
+.(talking a bit flirtily)
 >:Not now, Amisha. Let's get that
 .:done after work, all right?
 .((to Roger)
@@ -358,8 +354,8 @@ Words/2:munis
 .:you need, Rog?
 ._ROGER
 >:What do you mean I need? Did I call
->:the suicide prevention hotline? You
-.:know what I need.
+>:the fucking suicide prevention
+.:hotline? You know what I need.
 ._SONNY
 >:Don't go all pissy on me first
 >:thing in the morning. Tough party
@@ -369,15 +365,14 @@ Words/2:munis
 ._ROGER
 >((pretends he is not
 >(interested, but actually
->(he eagerly wants to hear
+>(eagerly wants to hear
 .(Sonny's exploits)
 >:Not interested in your exploits.
 >:Bitches come, bitches go. Fuck
 .:them, done that.
 ._SONNY
 >((still talking about that
->(woman he wanted last
-.(night)
+.(woman he met last night)
 >:... She had the sweetest ass. I
 >:swear to you man, could fuck her
 >:right there, right then. Couldn't
@@ -406,12 +401,10 @@ Words/2:munis
 .:So this girl.
 >((Joshua comes by, Sonny
 .(becomes agitated)
->:I told you I don't have the time
-.:first thing in the morning.
-._
+>:I don't have the time right
+.:now.first thing in the morning.
 >.Joshua tries to leave really fast, but bumps into furniture
 ..and spills coffee he was holding.
-.:
 ._SONNY
 >((to Roger, is making fun
 .(of the intern Joshua)
@@ -419,14 +412,14 @@ Words/2:munis
 >:they are like 10c a dozen, don't do
 >:anything, little fucks. Still need
 >:to have them, because the
->:management fucking says we need
-.:them. For PR reason or whatever.
+>:management fucking says so. For PR
+.:or whatever.
 ._ROGER
 >((obviously not interested
 >(in the interns, more
 >(interested in the
 .(exploits)
-.:Come on man, the girl.
+.:Come on man, the girl...
 ._SONNY
 >:Yeah, so there was this girl, and
 >:she has the sweetest ass I have
@@ -441,17 +434,17 @@ Words/2:munis
 ._ROGER
 .((confused)
 >:Oh the deal - yeah, so this deal is
-.:sweet man, but we need money.
+.:sweet man, but we need funding.
 ._SONNY
->:How much, cause you know what
->:happened last time we did business
-.:with you?
+>:How much are we talking about?
+>:Cause you know what happened last
+.:time we did business.
 ._ROGER
 >:Why do you always have to mention
 .:that? It happened like one time.
 ._SONNY
 >:Yeah, one time (whispering), lost
->:nearly 400 million. Thank god SM
+>:nearly 40 million. Thank god SM
 >:management is so fucking
 >:incompetent they barely noticed. If
 >:it wasn't for all the other fucking
@@ -465,7 +458,8 @@ Words/2:munis
 .:time.
 ._SONNY
 >:Better be, cause if Brett remembers
-.:that last deal... I am out. 
+>:that last deal... it's not
+.:happening. 
 ._
 >:Anyways, as I was saying - this
 >:girl was hot as hell, great ass,
@@ -480,14 +474,16 @@ Words/2:munis
 ._SONNY
 >:Cause I already have a strike in
 >:the Boom boom room. Half a year ago
-.:or so.
+.:or so...
 ._ROGER
 .:You animal.
 ._SONNY
 >:So - about this new deal - how much
 .:you say you need?
 ._ROGER
-.:Around 150 million. 
+>:Around 200 million total. 10
+>:million quarterly installments over
+.:5 years.
 ._SONNY
 .((somewhat sceptical)
 >:Hmmm.... Let me run that through.
@@ -507,14 +503,14 @@ Words/2:munis
 >:Holds so true. Anyways, really
 .:busy, what do you want? 
 ._SONNY
->:You know Hemisphere Energy. They
+>:You know Hemispheric Energy. They
 >:called. They have this great deal
->:that they are looking investors
+>:that they are trying to get funding
 .:for. I spoke to...
 .((interrupted by Brett)
 .:
 ._BRETT
->:Hemisphere. That kind of rings a
+>:Hemispheric? That kind of rings a
 .:bell.
 ._SONNY
 >:Yeah, they are huge. Shale gas
@@ -534,11 +530,11 @@ Words/2:munis
 >:first. I want to see if you missed
 .:anything. 
 .\DR. TANG'S AREA ON THE TRADING FLOOR
->.Dr. Tang is really into his work and he is not easily
-..distracted. 
+>.Dr. Tang, focused and eagerly typing into the computer is
+..not easily distracted. He speaks in slight Chinese accent.
 ._SONNY
->:Dr. Tang, how is my favorite
-.:Chinese doing today? Busy?
+>:Dr. Tang, how is my favorite strat
+.:doing today? Busy?
 ._DR. TANG
 >:Yes, I have to finish the risk
 >:reports for Carter Potential (a
@@ -548,8 +544,7 @@ Words/2:munis
 >((Dr. Tang doesn't speak
 >(perfect English, so
 >(minor mistakes in his
->(dialogue - and this
-.(script I might add...)
+.(dialogue.)
 .:
 ._SONNY
 .:I have this new deal coming....
@@ -591,9 +586,10 @@ Words/2:munis
 .:you. 
 ._DR. TANG
 >:Business decisions - it was end of
->:the quarter party. Anyways - I will
->:do it later. You also better run
-.:the deal through Igor in risk.
+>:the quarter party. Anyways - send
+>:over the specs, and I will look at
+>:it later. You also better run the
+.:deal through Igor in risk.
 ._SONNY
 >((somewhat dismissive
 .(towards Dr. Tang)
@@ -603,40 +599,42 @@ Words/2:munis
 ..stab him, but can't show that to him directly. 
 .\SONNY AT HIS DESK
 ._SONNY
-.((calling IGOR)
+>((calling IGOR on the
+.(phone)
 .:Hi Igor.
 ._IGOR
 .((in mild russian accent)
 .:Hi, how are you zooing?
 ._SONNY
-.:So Igor, I have this deal...
+>:All fine. Listen Igor, I got this
+.:deal on my hands...
 ._IGOR
 >:Wait right there, I have another
->:call from the fixed income
-.:department. 
+.:call from the fixed income group.
 >.Sonny is put on hold for about 15 secs, in the meantime the
 >.Russian national anthem is playing, interrupted occasionally
-..by short speeches from Vladimir Putin. 
+>.by short excepts from Vladimir Putin speaches. TODO: Put
+..here what one of those speeches is.
 ._IGOR
->:Sorry for that, that was the head
->:of risk, he wants to do this field
->:day for us to get to know each
->:other better. But I told him I
->:don't need this - I already know
->:everybody here. Back in Leningrad's
->:Lomonosov Institute we had only one
->:field day every 4 years. That was
->:enough. We went, grilled some
->:sashlik and drank. Sometimes we
->:shot guns at Reagan, sometimes at
-.:Eisenhover, you know...
+>:Sorry for that, it was the head of
+>:risk, he wants to do this field day
+>:for us to get to know each other
+>:better. But I told him I don't need
+>:this - I already know everybody
+>:here. Back in Leningrad's Lomonosov
+>:Institute we had only one field day
+>:every 4 years. That was enough. We
+>:went, grilled some sashlik and
+>:drank. Sometimes we shot guns at
+>:Reagan, sometimes at Eisenhover,
+.:you know...
 ._SONNY
-.:Yes Igor, I know.
+.:Igor, I know...
 ._IGOR
 >((tries to continue with
 .(his rant)
->:And nowadays, what remains of the
-.:Soviet Union. Nothing...
+>:... And nowadays, what remains of
+.:the Soviet Union. Nothing...
 ._SONNY
 >:Yes, Igor, I know it's tragic, but
 .:I can't help if we beat you...
@@ -651,20 +649,27 @@ Words/2:munis
 .:build, or...
 ._SONNY
 >:Igor, we can go on with this or you
-.:can help me for what you get paid. 
+>:can help me for what you get paid
+.:for. 
 .((awkward silence)
->:So I wanted to contact you about
-.:this deal that is brewing...
+>:So I wanted to talk about this deal
+.:that is brewing...
 ._IGOR
 .:What deal?
 ._SONNY
-.:It's a shale gas exploration....
+>:It's a shale oil and gas
+.:exploration over a....
 ._IGOR
 .((interrupts Sonny)
 >:Is it with Hempisheric Energy
 .:again?
 ._SONNY
-.(Yesssssssss...........
+>(Yesssssssss...........
+>((trying to not act
+>(suprised that IGOR
+>(somehow found that out
+>(without any other
+.(information.)
 .:
 ._IGOR
 >:Have they not cheated you enough
@@ -673,15 +678,16 @@ Words/2:munis
 >:Look, this deal is nothing like the
 .:previous one...
 ._IGOR
-.:Hmmm -hmmmm
+.:Hmmm -hmmmm....
 ._SONNY
 >:... And it is potentially super
 .:lucrative.
 ._IGOR
-.:Ah-ha.
+.:Ah-ha. Why am I not surprised?
 ._SONNY
->:So I would like you to take a look
-.:at it and approve the risk profile.
+>:...So I would like you to take a
+>:look at it and approve the PnL and
+.:risk analysis that the strats did.
 ._IGOR
 .((mockingly)
 .:How is this "new" deal structured?
@@ -700,21 +706,22 @@ Words/2:munis
 .:extract it.
 ._IGOR
 >:OK, send the deal specifications
->:over here and I will evaluate the
-.:risk profile.
+.:over here and I will review it.
 ._SONNY
 .:Will do as soon as I get them.
 ._IGOR
 >:Wait, what? You mean you don't have
->:them already? How is this a
->:"brewing" deal? Or is it only
-.:brewing inside you (mockingly)?
+>:them already? How is this "brewing"
+>:deal so lucrative? Or is it only
+>:brewing inside you (mockingly)?
+>:(This is stated with a heavy
+.:Russian accent)
 ._SONNY
 >:Look, Igor - I will have the
 >:specifications over at your desk as
 >:soon as I get them, and you will
->:see this is a great deal, and there
-.:is nothing to worry about...
+>:see it's a great deal, and there is
+.:nothing to worry about...
 ._IGOR
 >:You mean the way there was nothing
 >:to worry about last time you dealt
@@ -768,8 +775,9 @@ Words/2:munis
 >:You can be as impatient as you
 >:want, I am telling you this deal,
 >:if it is anything like last time
->:will get a huge credit penalty. You
-.:can take that to the bank 
+>:will get a huge credit valuation
+>:adjustment. You can take that to
+.:the bank 
 >((laughs at himself, like
 .(and old man)
 .:
