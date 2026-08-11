@@ -1,0 +1,395 @@
+SYNOPSIS
+
+Recurring characters:
+
+Shapley Morton (SM): is a large Wall Street brokerage
+company. It has a standard pyramid shape management
+structure. All characters, except for Roger, work for this
+company.
+
+Sonny: Sonny is a good looking, well kept guy, who shaves
+daily and wears a white shirt and a tie at all the time. As
+a result of the lavish money in early 2000s, he never
+developed a deep understanding of the commodity space and
+the factors that drive it. He is using profanity liberally.
+He works for SM.
+
+Roger: Roger is from Hemispheric Energy, a gas and oil
+exploration company. He is a typical non-Wall Street
+manager, overly positive and exaggerating. His dress style
+is somewhat more casual as Sonny's. He has an overcomb, and
+is slightly overweight. Very shallow and vain.
+
+Brett: Brett is Sonny's boss. He is a polished New England
+executive with a great haircut, white shirt and a tie.
+Brett's corner office is on a high floor of SM building and
+has great view of NY. On his desk are a photo of his wife
+and 2 children, a model schooner. Behind the desk on the
+wall is the .  
+
+Dr. Tang: Dr. Tang is a strat in the organization, I.e. he
+works on the mathematical models. He is always referred to
+as Dr. Tang, as if he doesn't have a first name. His team
+includes people with advanced PhD math, science, and
+computer-science degrees. He speaks carefully and precisely.
+He has at least six really large
+screens in front of him, full of spreadsheets, coding
+editors etc., and is running all sorts of analysis, coding.
+
+Igor: Igor works in the risk management department. He
+wears somewhat large, clumsy glasses. He tries to take care
+of his appearance, but can't quite pull it all together - a
+large stain on his shirt or something always gives it away.
+
+Amisha: An associate of Sonny who works beneath him. She is
+very smart, but pursued a career in finance because her
+family regarded it highly. She slowly grows disillusioned
+with not being promoted, even though she has not clearly
+defined what advancement would look like to her.
+
+Joshua: Another associate of Sonny. Like Amisha, he went
+into finance for lack of motivation elsewhere and does not
+really like it, though it keeps him in good standing with
+his family. He tries to be helpful, but often makes mistakes.
+He is humble rather than arrogant, unlike his boss Sonny.
+Secretly, he wants to pursue more creative endeavors.
+
+--INTRO
+
+SONNY'S DESK
+
+A typical trading floor desk. Several screens with Bloomberg
+terminals in front of him. A dispatcher phone console. Other
+traders/sales -people around him talking on the phones,
+browsing Bloomberg, doing spreadsheet analysis.
+
+Amisha and Joshua are sitting at their respective desks.
+Joshua is trying to work on some spreadsheets, but Amisha is
+just browsing her cell phone with only e-mail open on her
+two screens. The camera switches between Roger, who is in an
+office at Hemispheric, and Sonny, who is at his trading
+desk. Sometimes the camera stays on Roger or Sonny, and the
+other's voice is heard in the background.
+
+--PRELUDE
+
+                      SONNY
+                (talking to a girl on the
+                 phone, switches the on
+                 the phone console)
+          ... Babe, I have to hang up.
+          Love... 
+                (presses the dial on the
+                 phone console)
+          This is Sonny at SM. Who do I have
+          the pleasure of talking to? 
+
+                      ROGER
+          Hey, It's Roger from Hemispheric.
+
+                      SONNY
+          Hey Rog, old buddy. What's
+          happening on this fine automn
+          morning down in WV?
+
+                      
+          --DIALOGUE
+
+                      ROGER
+          You seem not to lose time... 
+
+                      SONNY
+          ... Never... 
+
+                      ROGER
+          ... All is going fine here. Look,
+          we acquired a patch here and we're
+          interested in hedging the profits.
+          We naturally thought of you.
+
+                      SONNY
+          How sweet (sarcastic). What are we
+          looking at?
+
+                      
+          --DIALOGUE
+
+                      ROGER
+          The engineering report came
+          through, and what we would like to 
+          do is lock in a few million MMBtus
+          of oil and natgas. Some are
+          convertable to jet fuel.
+
+Roger continues talking on the phone while Amisha comes
+along and puts Sonny's coffee in front of him. Sonny gently
+motions for her to leave while
+holding the phone covered so that Roger can't hear them.
+Amisha goes to her desk.
+
+                      SONNY
+                (to AMISHA)
+          Not now, Amisha. Leave the coffee
+          here, please.
+
+                      ROGER
+                (continues from where he
+                 left over)
+          .... So all in total, this deal is
+          looking exceptionally strong.
+
+                      SONNY
+                (kind of bluffing in
+                 order to portray himself
+                 busier than he really
+                 is)
+          Wait, couldn't get you there, tons
+          of stuff happening here. What did
+          you say the parameters are?
+
+                      
+          --DIALOGUE
+
+                      ROGER
+          Like, it's really profitable. We
+          just stumbled into a gold mine.
+
+                      SONNY
+                (obviously doesn't quite
+                 grasp it, but continues
+                 anyways)
+          Sounds good. Where did you say this
+          is? West Appalachian shale? 
+
+                      ROGER
+          Yeah, SE corner.
+
+                      SONNY
+          Oh man - I was there once. Rough
+          place. The air was awful, and the
+          whole area felt neglected...
+                (is interrupted by Roger)
+
+                      ROGER
+          ...I know. The local concerns are
+          not our problem, as long as the
+          operation keeps moving...
+                (is interrupted by Sonny)
+          --DIALOGUE
+
+                      SONNY
+          Right. Not our concern....
+
+                      ROGER
+                (continues)
+          ... Care, as long as they keep
+          pumping us that gas.
+
+                      SONNY
+          I read you, man.
+
+                      
+
+Amisha again comes around with some papers for Sonny to
+sign.
+
+                      SONNY
+                (to Amisha, while holding
+                 the phone covered,
+                 speaking quietly)
+          Not now, Amisha. Let's get that
+          done after work, all right?
+                (to Roger)
+          OK, I understand the deal. What do
+          you need, Rog?
+
+                      
+          --DIALOGUE
+
+                      ROGER
+          What do you mean, what do I need?
+          You know exactly why I called.
+
+                      SONNY
+          Don't get impatient first thing in
+          the morning. It was a long night at
+          the Standard. The room was packed,
+          I am telling you. There was one...
+
+                      ROGER
+                (pretends he is not
+                 interested, but actually
+                 eagerly wants to hear
+                 Sonny's exploits)
+          Not interested in your nightlife.
+          People come and go. We've all heard
+          these stories before.
+
+                      
+          --DIALOGUE
+
+                      SONNY
+                (still talking about that
+                 woman he met last night)
+          ... She was impossible to miss. I
+          swear, I was ready to make a move
+          right there, but thought better of
+          it.
+
+                      ROGER
+                (gets interested, whereas
+                 before faked a
+                 non-interest)
+          Why not? Where was that?
+
+                      SONNY
+          The private lounge upstairs.
+
+                      
+          --DIALOGUE
+
+                      ROGER
+                (irritated he wasn't part
+                 of the exploits)
+          The private lounge? I've been in NY
+          so many times, met you countless
+          times, and you never bring me
+          there? I've stayed out all night,
+          barely remembered the next day, and
+          you never bring me there.
+
+                      SONNY
+          Calm down, Rog. 
+                (continues the story)
+          So this girl.
+                (Joshua comes by, Sonny
+                 becomes agitated)
+          I don't have the time right
+          now.first thing in the morning.
+
+                      
+          --DIALOGUE
+
+Joshua tries to leave really fast, but bumps into furniture
+and spills coffee he was holding.
+
+                      SONNY
+                (to Roger, is making fun
+                 of the intern Joshua)
+          Interns, man. We get them by the
+          dozen, they barely know what to do.
+          Still need to have them because
+          management says so. For PR or
+          whatever.
+
+                      ROGER
+                (obviously not interested
+                 in the interns, more
+                 interested in the
+                 exploits)
+          Come on man, the girl...
+
+                      
+          --DIALOGUE
+
+                      SONNY
+          Yeah, so there was this woman, and
+          she had this incredible presence.
+          Like, she must have been a regular
+          there.
+
+                      ROGER
+                (fantasizing about the
+                 girl)
+          Wow...
+
+                      SONNY
+          So where were we about that deal?
+
+                      ROGER
+                (confused)
+          Oh the deal - yeah, so this deal is
+          sweet man, but we need funding.
+
+                      
+          --DIALOGUE
+
+                      SONNY
+          How much are we talking about?
+          Cause you know what happened last
+          time we did business.
+
+                      ROGER
+          Why do you always have to mention
+          that? It happened like one time.
+
+                      
+          --DIALOGUE
+
+                      SONNY
+          Yeah, one time (whispering), lost
+          nearly 40 million. Thank goodness
+          SM management is so incompetent
+          they barely noticed. If it wasn't
+          for all the other deals that went
+          sour that quarter,
+          my ass would be selling lemons of
+          the BQE (Brooklyn Queens
+          Expressway). Can't even believe my
+          luck.
+
+                      ROGER
+          Man, this is nothing like last
+          time.
+
+                      
+          --DIALOGUE
+
+                      SONNY
+          Better be, cause if Brett remembers
+          that last deal... it's not
+          happening. 
+
+                      
+          Anyways, as I was saying - this
+          woman was striking, really. I
+          thought we might talk, but she was
+          with someone, and this friend kept
+          showing up every so often. It never
+          happened.
+
+                      
+          --DIALOGUE
+
+                      ROGER
+          Why not?
+
+                      SONNY
+          Because I am already on thin ice at
+          the private lounge. Half a year ago
+          or so...
+
+                      ROGER
+          You animal.
+
+                      SONNY
+          So - about this new deal - how much
+          you say you need?
+
+                      ROGER
+          Around 200 million total. 10
+          million quarterly installments over
+          5 years.
+
+                      
+          --DIALOGUE
+
+                      SONNY
+                (somewhat sceptical)
+          Hmmm.... Let me run that through.
+          In the meantime, the trouble I had
+          at the private lounge....
+          (Scene slowly cuts off.) 
+
+                      
+          --SCENE
