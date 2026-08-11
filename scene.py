@@ -205,13 +205,11 @@ def generate_scene(
     {dialogue}
     """
 
-    print("Starting scene generation...")
     operation = client.interactions.create(
         model=model,
         input=combined_prompt,
         previous_interaction_id=previous_video_id,
     )  # this is gonna block
-    print("Finished scene generation.")
 
     with open(output_fname, "wb") as f:
         generated_video = operation.output_video.data
@@ -262,7 +260,7 @@ def stitch_scenes(
             # Ensure we always write an MP4 path (generate_scene writes raw bytes as provided).
             scene_path = work_dir_path / f"{scene_basename}_{scene_idx:03d}_{dialog_idx:03d}{video_ext}"
             print(f"Generating: {scene_path}")
-            scene_id = generate_scene(
+            new_scene_id = generate_scene(
                 dialogue=dialogue,
                 context=intro or "",
                 scene_descr=scene_descr,
@@ -270,6 +268,7 @@ def stitch_scenes(
                 model=model,
                 previous_video_id=scene_id,
             )
+            scene_id = new_scene_id  # chain the next scene to the previous one
             scene_paths.append(scene_path)
 
     # 2) Create concat list file for ffmpeg
@@ -346,7 +345,11 @@ def main_test():
     print(len(dialogue_splits_scene1))
 
 
-script = open("script/four_scenes.txt", "r").read()
-intro, scenes = cut_script(script)
-print("SCENES", scenes)
-stitch_scenes(intro=intro, scenes=scenes)
+# example of a working production
+def main_working():
+    script = open("script/five_scenes.txt", "r").read()
+    intro, scenes = cut_script(script)
+    # print(scenes)
+    stitch_scenes(intro=intro, scenes=scenes, work_dir="out/scenes3")
+
+main_working()
