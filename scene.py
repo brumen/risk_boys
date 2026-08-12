@@ -260,16 +260,20 @@ def stitch_scenes(
             # Ensure we always write an MP4 path (generate_scene writes raw bytes as provided).
             scene_path = work_dir_path / f"{scene_basename}_{scene_idx:03d}_{dialog_idx:03d}{video_ext}"
             print(f"Generating: {scene_path}")
-            new_scene_id = generate_scene(
-                dialogue=dialogue,
-                context=intro or "",
-                scene_descr=scene_descr,
-                output_fname=str(scene_path),
-                model=model,
-                previous_video_id=scene_id,
-            )
-            scene_id = new_scene_id  # chain the next scene to the previous one
-            scene_paths.append(scene_path)
+            try: 
+                new_scene_id = generate_scene(
+                    dialogue=dialogue,
+                    context=intro or "",
+                    scene_descr=scene_descr,
+                    output_fname=str(scene_path),
+                    model=model,
+                    previous_video_id=scene_id,
+                )
+                scene_id = new_scene_id  # chain the next scene to the previous one
+                scene_paths.append(scene_path)
+            except Exception as e:  
+                print(f"Error generating scene {scene_idx}, dialogue {dialog_idx}: {e}")
+                continue  # Skip to the next dialogue split
 
     # 2) Create concat list file for ffmpeg
     concat_list_path = work_dir_path / "concat_list.txt"
@@ -350,6 +354,6 @@ def main_working():
     script = open("script/five_scenes.txt", "r").read()
     intro, scenes = cut_script(script)
     # print(scenes)
-    stitch_scenes(intro=intro, scenes=scenes, work_dir="out/scenes3")
+    stitch_scenes(intro=intro, scenes=scenes, work_dir="out/scenes4")
 
 main_working()
